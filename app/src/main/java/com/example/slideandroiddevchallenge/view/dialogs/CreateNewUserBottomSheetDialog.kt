@@ -100,7 +100,7 @@ class CreateNewUserBottomSheetDialog(private val listener: AddNewUserListener?) 
         var isValid = true
         when {
             binding.emailEditText.checkEmptyEditText() -> {
-                binding.nameInputLayout.setError(
+                binding.emailInputLayout.setError(
                     true,
                     getString(R.string.email_is_required)
                 )
