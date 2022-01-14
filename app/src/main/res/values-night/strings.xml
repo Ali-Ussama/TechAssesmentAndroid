@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="no_users_added_yet">No users added, yet</string>
+    <string name="name">Name</string>
+    <string name="create_new_user">Create New User</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="name_is_required">Name is required</string>
+    <string name="name_is_incorrect">Incorrect Name</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="email_is_incorrect">Incorrect Email</string>
+    <string name="are_you_sure_message">Are you sure you want to remove this user?</string>
+</resources>
